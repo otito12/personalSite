@@ -1,0 +1,15 @@
+.social-media-bar-container{
+  /*border: solid 3px green;*/
+}
+.social-media-bar-logo{
+  fill: #0CC166;
+}
+.social-svg{
+  height: 30px;
+  width: 30px;
+  margin-right: 20px;
+}
+
+.social-svg:hover{
+  cursor: pointer;
+}

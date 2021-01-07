@@ -1,0 +1,43 @@
+/*Overall Nav Bar container */
+
+.nav-bar-container{
+  /*border: solid 1px deeppink;*/
+  box-shadow: 0px 2px 6px #E2E2E2;
+}
+.debug-container{
+  border: solid 1px deeppink;
+}
+
+/*Navigation option list and content*/
+
+#nav-option-cont{
+}
+#nav-option-list{
+  list-style: none;
+  font-family: "Segoe UI";
+  font-weight: bold;
+}
+.nav-option{
+  margin: 0px 20px 0px 20px;
+  /*padding: 20px 0px 20px 20px;*/
+}
+
+.nav-option:hover{
+  cursor: pointer;
+  color: #0CC166;
+  border-bottom: 5px solid #0CC166;
+  margin-bottom: -5px;
+
+}
+
+/*Let side name/Logo on Nav bar*/
+
+#nav-name{
+  font-family: "Segoe UI";
+  font-weight: bold;
+  font-size: 35px;
+}
+#nav-name p{
+  margin: 15px;
+}
+
